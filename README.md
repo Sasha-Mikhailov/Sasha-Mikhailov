@@ -6,7 +6,6 @@ Telegram: [@SashaMikhailov](https://t.me/SashaMikhailov)
 
 [Facebook](https://www.fb.com/sashamikhailovru)
 [LinkedIn](https://www.linkedin.com/in/sashamikhailov/)
-[GitHub](https://github.com/Sasha-Mikhailov)
 
 [Instagram](https://www.instagram.com/sascha.mikhaylov/)
 
