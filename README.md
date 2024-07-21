@@ -1,14 +1,8 @@
 # Sasha Mikhailov
 
-Telegram: [@SashaMikhailov](https://t.me/SashaMikhailov)
+Telegram: [@data_days](https://t.me/data_days)
 
-[Personal blog](https://sashamikhailov.ru/blog/)
-
-[Facebook](https://www.fb.com/sashamikhailovru)
-[LinkedIn](https://www.linkedin.com/in/sashamikhailov/)
-
-[Instagram](https://www.instagram.com/sascha.mikhaylov/)
-
+[LinkedIn](www.linkedin.com/in/sasha-mikhailov-)
 [Twitter](https://twitter.com/SashaMikhailo12)
 
 <!--
