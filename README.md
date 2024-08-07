@@ -1,6 +1,6 @@
 # Sasha Mikhailov — Data Enthusiast
 
-× [Telegram](https://t.me/data_days)  × [LinkedIn](www.linkedin.com/in/sasha-mikhailov-) × [Twitter](https://twitter.com/SashaMikhailo12) ×
+× [Telegram](https://t.me/data_days)  × [LinkedIn](https://linkedin.com/in/sasha-mikhailov-/) × [Twitter](https://twitter.com/SashaMikhailo12) ×
 
 <!--
 **Sasha-Mikhailov/Sasha-Mikhailov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
